@@ -4,8 +4,7 @@ spectrum = [R: red, O: orange, Y: yellow, G: green, B: blue, I: indigo, V: viole
 
 
 def display_rainbow (spectrum)
-  puts " #{spectrum[]}, "
+  puts "R: #{spectrum[0]}, O: #{spectrum[1]}, Y: #{spectrum[2]}, G: #{spectrum[3]}, B: #{spectrum[4]}, I: #{spectrum[5]}, V:#{spectrum[6]}."
+end
   
   
-  answer = "flamboyance"
-puts "A group of flamingos is called a #{answer}."
